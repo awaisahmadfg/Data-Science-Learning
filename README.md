@@ -1,5 +1,4 @@
 # Data-Science-Learning
-<li>
-<b><p>insurance Dataset available</p>
-  <p>import carsale dataset from website</p></b>
-</li>
+<li><i><b><p>insurance Dataset available</p></i></b></li>
+<li><i><b><p>import carsale dataset from website</p></i></b></li>
+
